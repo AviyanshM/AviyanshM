@@ -4,9 +4,7 @@ Hi 👋 My name is Aviyansh Manchanda
 CS Student @MUJ
 ---------------
 
-I'm a BTech Computer Science student at MUJ, passionate about - AI, Fintech,
-
-Quant- Financial Markets and Creative Content. Still getting into the world of coding
+I'm a BTech Computer Science student, passionate about - AI, Fintech, Quant- Financial Markets and Creative Content. Still getting into the world of coding
 
 * 🌍  I'm based in Jaipur
 * ✉️  You can contact me at [aviyanshmanchanda@gmail.com](mailto:aviyanshmanchanda@gmail.com )
