@@ -27,3 +27,8 @@ I'm a BTech Computer Science student at MUJ, passionate about - AI, Fintech, Qua
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/AviyanshM"><img src="https://github-readme-stats.vercel.app/api?username=AviyanshM&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="AviyanshM's GitHub stats" /></a>
+
+
+
+[![An image of @aviyanshm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aviyanshm)](https://holopin.io/@aviyanshm)
+
