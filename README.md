@@ -1,4 +1,4 @@
-Hi 👋 My name is Aviyansh Manchanda
+Hi 👋 My name is Avi
 ===================================
 
 CS Student @MUJ
