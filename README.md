@@ -8,7 +8,9 @@ I'm a BTech Computer Science student at MUJ, passionate about - AI, Fintech, Qua
 
 * 🌍  I'm based in Jaipur
 * ✉️  You can contact me at [aviyanshmanchanda@gmail.com](mailto:aviyanshmanchanda@gmail.com )
-* 🧠  I'm learning MongoDB and Kotlin
+
+### Portfolio site
+https://portfolio-avi-rose.vercel.app/
 
 ### Skills
 
